@@ -1,10 +1,10 @@
 👋 Hello, I’m @circutrider21
 
-👀 I’m a systems programmer working on @littlekernel and with Peeled Fruit Studios on CrecentOS and Unar
+👀 I’m a systems programmer working on [mrk](https://github.com/circutrider21/mrk) and with Peeled Fruit Studios on CrecentOS and Unar
 
 🌱 I’m currently learning rust
 
-💞️ I’m looking to collaborate on anything Osdev
+💞️ I’m looking to collaborate on anything Systems Programming
 
 📫 You can reach me via [gmail](circutrider21@gmail.com)
 
