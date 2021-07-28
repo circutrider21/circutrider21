@@ -8,7 +8,7 @@
 
 📫 You can reach me via gmail [here](circutrider21@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=circutrider21)
+![](https://komarev.com/ghpvc/?username=circutrider21) 😢
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=circutrider21&layout=compact" width="333" />
